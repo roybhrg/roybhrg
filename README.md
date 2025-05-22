@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**bytecell12/bytecell12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm passionate about building, learning, and solving problems through code.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Languages: TypeScript, Golang, C++
+- 🧰 Tools: Git, VS Code, Linux, Docker
+- 🌐 Web: HTML, CSS, Node.js, Svelte
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
+
+## 📫 How to reach me
+
+Feel free to connect or follow — I’m always open to collaboration and learning!
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
