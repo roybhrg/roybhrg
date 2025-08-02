@@ -3,8 +3,6 @@
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/roybhrg)  
 [![Sponsor me](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/roybhrg)
 
-![Roy's Dev Card](https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16)
-
 ---
 
 A self-taught software engineer passionate about open-source, tech innovation, and cybersecurity. I am also an advocate for Web3 and AI technologies.
