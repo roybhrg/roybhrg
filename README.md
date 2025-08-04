@@ -1,60 +1,80 @@
-# 👋 **RoyBHRG** (💻💖☕)
+# 👋 Hi, I'm Roy! 
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/roybhrg)  
-[![Sponsor me](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/roybhrg)
-
----
-
-A self-taught software engineer passionate about open-source, tech innovation, and cybersecurity. I am also an advocate for Web3 and AI technologies.
-
-## 💻 **What I Do**  
-- **Open Source Contributions**: I actively contribute to and maintain various open-source projects that focus on improving the developer experience.
-- **Cybersecurity Researcher**: Engaged in bug bounty programs and security research, helping to secure applications and systems.
-- **Tech Innovator**: Exploring cutting-edge technologies like Web3 and Artificial Intelligence to shape the future of the digital world.
-- **Community Builder**: Passionate about building tech communities and supporting other developers in their growth.
-
-Feel free to check out my work and contributions via my [Bio Link](https://bio.link/roybhrg).
+I am a passionate software developer who loves to create high-performance applications with modern technologies. My primary focus is on backend development with Go and Python, while also crafting seamless front-end experiences using **Svelte** and **TypeScript**. I'm also experienced in **Docker**, **PostgreSQL**, and **Linux** systems, making me a versatile developer who can handle everything from development to deployment.
 
 ---
 
-## 📱 **Tech Blog & Resources**
+### 🚀 **Tech Stack**
 
-In addition to my work in software development, I share insights on the latest trends in tech. My blog covers:
-- **Tech tutorials** and **best practices**.
-- **Productivity tools** for developers.
-- **Case studies** on the impact of emerging technologies like AI and Web3.
-
-Stay updated with my posts and tutorials through my [Blog Link](#).
+- **Frontend**: Svelte, TypeScript  
+- **Backend**: Go, Python  
+- **Databases**: PostgreSQL  
+- **Tools & DevOps**: Docker, Linux  
 
 ---
 
-## 🔧 **Technologies I Use**
+### 🔍 **What I Do**
 
-![Skills](https://skillicons.dev/icons?i=ts,svelte,golang,python,c++,docker,mysql,linux,vim&theme=light)
-
----
-
-## 📊 **GitHub Activity**
-
-Here’s a snapshot of my recent GitHub activities:
-
-- **Released** new versions for a few of my repositories focused on productivity and automation tools.
-- **Merged Pull Requests** into various projects that enhance developer workflows.
-- **Contributed to Issues** in several open-source projects, providing bug fixes and new feature ideas.
+- 🛠️ Build **Svelte** applications for fast and lightweight web interfaces.
+- ⚡ Create **Go** and **Python** APIs that are optimized for performance.
+- 🚢 Leverage **Docker** for containerization and easy deployment.
+- 📊 Design and manage **PostgreSQL** databases for scalability and reliability.
+- 🖥️ Automate development and deployment workflows on **Linux**.
 
 ---
 
-## 🏆 **GitHub Achievements**
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=roybhrg)
-
----
-
-## 📈 **GitHub Stats**
-
-[![My GitHub Stats](https://readme-stats.warengonzaga.com/api?username=roybhrg&show_icons=true&count_private=true)](https://github.com/roybhrg/github-readme-stats)  
-[![Top Languages](https://readme-stats.warengonzaga.com/api/top-langs?username=roybhrg&layout=compact)](https://github.com/roybhrg/github-readme-stats)
+### 📈 **GitHub Stats**  
+![RoyBHRG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roybhrg&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 ---
 
-💻💖☕ by [RoyBHRG](roybhrg.github.io)
+### 💡 **Featured Projects**
+
+#### 1. **[Project Name 1](link-to-your-project)**  
+A **Svelte**-based web application built with **TypeScript**. It focuses on [insert brief description].  
+- **Tech Stack**: Svelte, TypeScript, PostgreSQL  
+
+#### 2. **[Project Name 2](link-to-your-project)**  
+A **Go** API designed for high performance, used to [insert brief description].  
+- **Tech Stack**: Go, Docker, PostgreSQL  
+
+#### 3. **[Project Name 3](link-to-your-project)**  
+A Python-based utility for [insert brief description].  
+- **Tech Stack**: Python, PostgreSQL  
+
+---
+
+### 📚 **Recent Blog Posts**  
+- [**How to Optimize PostgreSQL Queries**](link-to-blog)  
+- [**Building a Dockerized Go Application**](link-to-blog)  
+- [**Why I Love Svelte for Front-End Development**](link-to-blog)  
+
+---
+
+### 🛠️ **Tools & Technologies I Use**
+
+- **VS Code** for rapid development.  
+- **Postman** for API testing.  
+- **Docker** for containerizing apps.  
+- **Linux** for server-side development and automation.  
+- **Git** for version control.
+
+---
+
+### 📫 **Let's Connect!**
+
+- [Twitter](https://twitter.com/roybhrg)  
+- [LinkedIn](https://www.linkedin.com/in/roybhrg)  
+- [Portfolio](https://roybhrg.dev) (optional)
+
+---
+
+### 🔮 **Contributing to Open Source**
+
+I’m always open to contributing to open-source projects, especially those that involve the tech stack I use. Feel free to reach out if you have a cool project or idea to collaborate on!
+
+---
+
+### 🎮 **Fun Fact**  
+When I'm not coding, you can find me [running]. It's a great way to recharge and stay creative! 😄
+
