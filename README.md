@@ -1,25 +1,30 @@
 # 👋 Hi, I'm Roy! 
 
-I am a passionate software developer who loves to create high-performance applications with modern technologies. My primary focus is on backend development with Go and Python, while also crafting seamless front-end experiences using **Svelte** and **TypeScript**. I'm also experienced in **Docker**, **PostgreSQL**, and **Linux** systems, making me a versatile developer who can handle everything from development to deployment.
+I'm a passionate software developer who loves to build high-performance applications with modern technologies. My main focus is on backend development with **Go** and **Python**, and creating seamless, fast front-end experiences with **Svelte** and **TypeScript**. I also enjoy using **Docker**, managing **PostgreSQL** databases, and working with **Linux** systems.
 
 ---
 
 ### 🚀 **Tech Stack**
 
-- **Frontend**: Svelte, TypeScript  
-- **Backend**: Go, Python  
-- **Databases**: PostgreSQL  
-- **Tools & DevOps**: Docker, Linux  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+</div>
 
 ---
 
 ### 🔍 **What I Do**
 
-- 🛠️ Build **Svelte** applications for fast and lightweight web interfaces.
-- ⚡ Create **Go** and **Python** APIs that are optimized for performance.
-- 🚢 Leverage **Docker** for containerization and easy deployment.
-- 📊 Design and manage **PostgreSQL** databases for scalability and reliability.
-- 🖥️ Automate development and deployment workflows on **Linux**.
+- 🛠️ Develop **Svelte** apps using **TypeScript** for a modern and dynamic frontend.
+- ⚡ Build **Go** and **Python** backend services that are optimized for performance and scalability.
+- 🚢 Utilize **Docker** for containerization and creating smooth development-to-production workflows.
+- 📊 Manage **PostgreSQL** databases with a focus on efficient queries and reliable data storage.
+- 🖥️ Automate and streamline development environments using **Linux**.
 
 ---
 
@@ -30,15 +35,15 @@ I am a passionate software developer who loves to create high-performance applic
 
 ### 💡 **Featured Projects**
 
-#### 1. **[Project Name 1](link-to-your-project)**  
+#### 1. **[Project Name 1](link-to-your-project)**
 A **Svelte**-based web application built with **TypeScript**. It focuses on [insert brief description].  
 - **Tech Stack**: Svelte, TypeScript, PostgreSQL  
 
-#### 2. **[Project Name 2](link-to-your-project)**  
+#### 2. **[Project Name 2](link-to-your-project)**
 A **Go** API designed for high performance, used to [insert brief description].  
 - **Tech Stack**: Go, Docker, PostgreSQL  
 
-#### 3. **[Project Name 3](link-to-your-project)**  
+#### 3. **[Project Name 3](link-to-your-project)**
 A Python-based utility for [insert brief description].  
 - **Tech Stack**: Python, PostgreSQL  
 
@@ -71,10 +76,9 @@ A Python-based utility for [insert brief description].
 
 ### 🔮 **Contributing to Open Source**
 
-I’m always open to contributing to open-source projects, especially those that involve the tech stack I use. Feel free to reach out if you have a cool project or idea to collaborate on!
+I'm always open to contributing to open-source projects, especially those that involve the tech stack I use. Feel free to reach out if you have a cool project or idea to collaborate on!
 
 ---
 
 ### 🎮 **Fun Fact**  
 When I'm not coding, you can find me [running]. It's a great way to recharge and stay creative! 😄
-
