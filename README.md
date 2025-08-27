@@ -35,13 +35,13 @@ I'm a passionate software developer who loves to build high-performance applicat
 
 ### 💡 **Featured Projects**
 
-#### 1. **[Project Name 1](link-to-your-project)**
+#### 1. **[Portfolio](roybhrg.netlify.app)**
 A **Svelte**-based web application built with **TypeScript**. It focuses on [insert brief description].  
-- **Tech Stack**: Svelte, TypeScript, PostgreSQL  
+- **Tech Stack**: Svelte, TypeScript
 
-#### 2. **[Project Name 2](link-to-your-project)**
-A **Go** API designed for high performance, used to [insert brief description].  
-- **Tech Stack**: Go, Docker, PostgreSQL  
+#### 2. **[royflash](https://github.com/roybhrg/royflash)**
+A **Go** Displays System information on your computer [insert brief description].  
+- **Tech Stack**: Go  
 
 #### 3. **[Project Name 3](link-to-your-project)**
 A Python-based utility for [insert brief description].  
@@ -70,7 +70,7 @@ A Python-based utility for [insert brief description].
 
 - [Twitter](https://twitter.com/roybhrg)  
 - [LinkedIn](https://www.linkedin.com/in/roybhrg)  
-- [Portfolio](https://roybhrg.dev) (optional)
+- [Portfolio](https://roybhrg.netlify.app) (optional)
 
 ---
 
