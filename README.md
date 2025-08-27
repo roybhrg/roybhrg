@@ -35,7 +35,7 @@ I'm a passionate software developer who loves to build high-performance applicat
 
 ### 💡 **Featured Projects**
 
-#### 1. **[Portfolio](roybhrg.netlify.app)**
+#### 1. **[Portfolio](https://roybhrg.netlify.app)**
 A **Svelte**-based web application built with **TypeScript**. It focuses on [insert brief description].  
 - **Tech Stack**: Svelte, TypeScript
 
