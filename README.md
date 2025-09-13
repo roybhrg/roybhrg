@@ -43,10 +43,6 @@ A **Svelte**-based web application built with **TypeScript**. It focuses on [ins
 A **Go** Displays System information on your computer [insert brief description].  
 - **Tech Stack**: Go  
 
-#### 3. **[Project Name 3](link-to-your-project)**
-A Python-based utility for [insert brief description].  
-- **Tech Stack**: Python, PostgreSQL  
-
 ---
 
 ### 📚 **Recent Blog Posts**  
@@ -70,7 +66,7 @@ A Python-based utility for [insert brief description].
 
 - [Twitter](https://twitter.com/roybhrg)  
 - [LinkedIn](https://www.linkedin.com/in/roybhrg)  
-- [Portfolio](https://roybhrg.netlify.app) (optional)
+- [Portfolio](https://roybhrg.netlify.app)
 
 ---
 
